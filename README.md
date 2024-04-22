@@ -1,3 +1,6 @@
+# Description
+Sample React Native app that uses Mapbox
+
 # Configure mapbox tokens:
 
 1. Go to https://account.mapbox.com/access-tokens/ and generate secret token
